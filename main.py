@@ -1,3 +1,11 @@
+'''
+-------------------------------------------------------------------------
+Github Username: JacksonNace
+Name: Jackson Nace
+PSID: 2300153
+-------------------------------------------------------------------------
+'''
+
 """main.py: Starter file for assignment on Exploratory Data Analysis """
 
 __author__ = "Shishir Shah"
@@ -15,8 +23,9 @@ from scipy.stats import zscore # Needed to perform z-score normalization
 __author__ = "Please enter your name here"
 __version__ = "1.1.0"
 '''
-Github Username: 
-PSID:
+Github Username: JacksonNace
+Name: Jackson Nace
+PSID: 2300153
 '''
 
 ''' Read data file winequality.csv '''
